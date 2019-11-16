@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    what_should_i_eat (0.1.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 2.0)
+  rake (~> 10.0)
+  what_should_i_eat!
+
+BUNDLED WITH
+   2.0.2
